@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28e15702b7ba8644ea88f6e0e59a33ef, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  names: M1479
+  SoundName: 1
+  damage: 40
+  fireRate: 200
+  maxDistance: 200
+  currentAmmo: 8
+  magazine: 2
+  magSize: 15
+  reloadTime: 1.5
+  reloading: 0
